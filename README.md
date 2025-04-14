@@ -104,3 +104,10 @@ pip install discord.py instagrapi moviepy python-dotenv
 ### 👥 Contributing
 
 Pull requests are welcome. Feel free to open issues for bugs or feature requests.
+
+---
+
+# If you have any request or want your own custom bot for any task at all then join our community and give myself @Matt a message or DM. :)
+
+- https://discord.gg/6eXGnRZE9V
+
