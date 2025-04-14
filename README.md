@@ -32,8 +32,8 @@ Create a `.env` file in the project directory with the following keys:
 DISCORD_TOKEN=your_discord_bot_token
 INSTAGRAM_USERNAME=your_instagram_username
 INSTAGRAM_PASSWORD=your_instagram_password
-TARGET_CHANNEL_ID= channel-videos-posted-to-upload
-NOTIFICATION_CHANNEL_ID= put-your-admin-channel-id
+TARGET_CHANNEL_ID=your_video_channel
+NOTIFICATION_CHANNEL_ID=your_admin_channel
 ```
 
 | Key | Description |
@@ -62,7 +62,7 @@ NOTIFICATION_CHANNEL_ID= put-your-admin-channel-id
 
 5. Run the bot:
    ```bash
-   python bot.py
+   python contentbro.py
    ```
 
 ---
